@@ -5,8 +5,8 @@ Day 1: Monday,September 3,2018
 Today's Progress: Although I was in trouble with handling the missing data part, that's just because of my careless mistake . (I pasted the wrong csv file. Yes,call it "Beginners' mistake." =( ).However,you can see what I got from Day1 as in the following:
 
 Summarization and advices throughout 6 steps:
-Step1: One cannot simply import those libraries(Numpy and  Pandas) without installing them . { Just a reminder for newbies like me . }
-       Installation may depend upon your environment or platform but that will be escalated easily anyways.For me, I just created the local        batch file in the Scripts folder of Python folder and wrote "cmd" in that "local.bat" file. After that, I run it and  started              writing installation commands like "pip install numpy","pip install scipy" & "pip install pandas".Finally,importing is done by Step1          code on python shell. (My senior said that batch fileis not needed and , libraries can be installed  at the same time using space,eg ."pip install numpy pandas scipy".
+Step1:  One cannot simply import those libraries(Numpy and  Pandas) without installing them . { Just a reminder for newbies like me . }
+       Installation may depend upon your environment or platform but that will be escalated easily anyways. For me, I just created the local batch file in the Scripts folder of Python folder and wrote "cmd" in that "local.bat" file. After that, I run it and  started writing installation commands like "pip install numpy","pip install scipy" & "pip install pandas".Finally,importing is done by Step1     code on python shell. (My senior said that batch file is not needed and , libraries can be installed  at the same time using space,eg ."pip install numpy pandas scipy".
        
 Step2:From step 2, I got the concept of (iloc) and also got to know the importance of dataset. You can see about iloc in my "Links"               section. 
 
