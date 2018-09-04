@@ -12,7 +12,7 @@ Selecting data by row numbers(.iloc)
   -The same applies for columns (from 0 to data.shape[1])… The different indexes of 0 and 1 in data.shape[] means that the first horizontal    row can be denoted as “axis 1 ” and the first vertical column can be denoted as axis 0. 
   
 
-  Single selections using iloc and DataFrame
+  #Single selections using iloc and DataFrame
 
 For  Rows:
    
@@ -26,7 +26,7 @@ For Columns:
     data.iloc[:,1] //second column of data frame (last_name)
     data.iloc[:,-1] // last column of data frame (id)
   
-Multiple Columns and Rows Selection
+#Multiple Columns and Rows Selection
    
     data.iloc[0:5] //first five rows of dataframe
     data.iloc[:, 0:2] //first two columns of data frame with all rows
