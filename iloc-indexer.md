@@ -10,20 +10,20 @@ I’m going to write about the iloc indexer here because this indexing is suitab
   -Based on these numbers, iloc[] allows selection . 
   -The same applies for columns (from 0 to data.shape[1])… The different indexes of 0 and 1 in data.shape[] means that the first horizontal row can be denoted as “axis 1 ” and the first vertical column can be denoted as axis 0. 
 Single selections using iloc and dataframe 
-# Single selections using iloc and DataFrame
+- Single selections using iloc and DataFrame
 For  Rows:
-    data.iloc[0] # first row of data frame 
-    data.iloc[1] # second row of data frame 
-    data.iloc[-1] # last row of data frame (
+    data.iloc[0] // first row of data frame 
+    data.iloc[1] // second row of data frame 
+    data.iloc[-1] // last row of data frame (
 For Columns:
-    data.iloc[:,0] # first column of data frame (first_name)
-    data.iloc[:,1] # second column of data frame (last_name)
-    data.iloc[:,-1] # last column of data frame (id)
+    data.iloc[:,0] //first column of data frame (first_name)
+    data.iloc[:,1] //second column of data frame (last_name)
+    data.iloc[:,-1] // last column of data frame (id)
   
 Multiple columns and rows selection
-    data.iloc[0:5] # first five rows of dataframe
-    data.iloc[:, 0:2] # first two columns of data frame with all rows
-    data.iloc[[0,3,6,24], [0,5,6]] # 1st, 4th, 7th, 25th row + 1st 6th 7th columns.
-    data.iloc[0:5, 5:8] # first 5 rows and 5th, 6th, 7th columns of data frame 
+    data.iloc[0:5] //first five rows of dataframe
+    data.iloc[:, 0:2] //first two columns of data frame with all rows
+    data.iloc[[0,3,6,24], [0,5,6]] //1st, 4th, 7th, 25th row + 1st 6th 7th columns.
+    data.iloc[0:5, 5:8] //first 5 rows and 5th, 6th, 7th columns of data frame 
 
 
