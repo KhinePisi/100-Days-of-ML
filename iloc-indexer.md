@@ -4,12 +4,8 @@ There are three main options to achieve the selection and indexing activities al
 3.selecting in a hybrid approach(.ix)  
 
 I’m going to write about the iloc indexer here because this indexing is suitable for 100-days-Of-ML challenge Day1 and Day2 problems. 
-Selecting data by row numbers(.iloc)
-  - According to its name “iloc”,it is used for interger-location based indexing/selection by position.
-  -The syntax of iloc indexer is data.iloc [ row selection ,  column selection ].
-  -You can simply imagine that each row has a row number from 0 to the total rows(data.shape[0]) .
-  -Based on these numbers, iloc[] allows selection . 
-  -The same applies for columns (from 0 to data.shape[1])… The different indexes of 0 and 1 in data.shape[] means that the first horizontal    row can be denoted as “axis 1 ” and the first vertical column can be denoted as axis 0. 
+Selecting data by row numbers(.iloc).
+According to its name “iloc”,it is used for interger-location based indexing/selection by position. The syntax of iloc indexer is data.iloc [ row selection ,  column selection ]. You can simply imagine that each row has a row number from 0 to the total rows(data.shape[0]) . Based on these numbers, iloc[] allows selection . The same applies for columns (from 0 to data.shape[1]). The different indexes of 0 and 1 in data.shape[] means that the first horizontal row can be denoted as “axis 1 ” and the first vertical column can be denoted as axis 0. 
   
 
   #Single selections using iloc and DataFrame
