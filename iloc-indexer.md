@@ -20,7 +20,8 @@ For Columns:
     data.iloc[:,1] //second column of data frame (last_name)
     data.iloc[:,-1] // last column of data frame (id)
   
-Multiple columns and rows selection
+Multiple Columns and Rows Selection
+   
     data.iloc[0:5] //first five rows of dataframe
     data.iloc[:, 0:2] //first two columns of data frame with all rows
     data.iloc[[0,3,6,24], [0,5,6]] //1st, 4th, 7th, 25th row + 1st 6th 7th columns.
