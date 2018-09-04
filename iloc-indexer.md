@@ -1,7 +1,7 @@
-There are three main options to achieve the selection and indexing activities although there are multiple ways to select and index rows and columns from  Pandas Dataframes.
-1.selecting data by row numbers(.iloc)
-2.selecting data by label or by a conditional statement (.loc)
-3.selecting in a hybrid approach(.ix)  
+There are three main options to achieve the selection and indexing activities although there are multiple ways to select and index rows and columns from  Pandas Dataframes.<br/>
+1.selecting data by row numbers(.iloc)<br/>
+2.selecting data by label or by a conditional statement (.loc)<br/>
+3.selecting in a hybrid approach(.ix)  <br/>
 
 I’m going to write about the iloc indexer here because this indexing is suitable for 100-days-Of-ML challenge Day1 and Day2 problems. 
 Selecting data by row numbers(.iloc).
