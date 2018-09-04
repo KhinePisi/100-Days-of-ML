@@ -14,7 +14,7 @@ Step3:For this step, I installed "sklearn" via local.bat and "scipy" .As I had s
 
 Step4 and Step 5: You'd better read some documentations on these utility classes and articles about "Categorial Data","Nominal data","how                     to  transform non-numerical labels" and etc, so that you can get the idea of why lable encoding is not sufficient to                       provide to the model for training. READ DEEPLY :p
 
-Step6: You will know the importance of data normalization from this step after surfing about this.I will share the links under my "link"          section. Kindly check it later . 
+Step6: You will know the importance of data normalization from this step after surfing about this.I will share the links under my "link"          section. 
 
 
 Thoughts: There's still not any tricky part in the start so that beginners can follow it well with a great motivation .For me, I'm glad that I could solve my mistake by myself and had read a lot today. 
@@ -24,6 +24,13 @@ Links: https://hackernoon.com/what-is-one-hot-encoding-why-and-when-do-you-have-
       https://datascience.stackexchange.com/questions/12321/difference-between-fit-and-fit-transform-in-scikit-learn-models
       https://en.wikipedia.org/wiki/Feature_scaling
       https://machinelearningmastery.com/why-one-hot-encode-data-in-machine-learning/
+
+
+
+Day2 
+
+My Progress : As I have already understood the theory of Simple Linear Regression , it took me 30 minutes to do all these day-2 steps .
+Thoughts: 
 
 
 
