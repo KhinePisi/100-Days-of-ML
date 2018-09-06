@@ -19,11 +19,12 @@ There are several ways of finding coefficient formulas.I will describe the most 
             - Take the square of the numbers in the y column, and put the result in the y*y column.<br>
    Step3. Add up all of the numbers in the columns and put the result at the bottom of the column.   <br>
    Step4. Use the correlation coefficient formula. <br>
+            You can now analyze the results and decide whether you are going to find any statistcal equation with them or not . <br>
    
+This is important in data analyzing and preprocessing steps especially for Linear Regression Models.<br>
+
    
    -------------------------------------------------------------------------------------------------------------------
-
-This is important in data analyzing and preprocessing steps especially for Linear Regression Models.<br>
 
 
 
