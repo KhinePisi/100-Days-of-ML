@@ -7,6 +7,9 @@
 - In linear regression,Pearson’s correlation is commonly used.<br>
 
 There are several ways of finding coefficient formulas.I will describe the most basic one here . 
+   ![Equation Image ](https://github.com/KhinePisi/100-Days-of-ML/blob/master/Correlation%20Coefficient.JPG)
+   
+   
 
 
 
