@@ -12,7 +12,7 @@ If we dont have any interest on the relationship between variables and fit it in
 There are several ways of finding coefficient formulas.I will describe the most basic one here . 
    ![Equation Image ](https://github.com/KhinePisi/100-Days-of-ML/blob/master/Correlation%20Coefficient.JPG)<br>
    Implementation of Equation <br>
-   Step1. Choose two data columns you want to calcuate ( two variables x and y)<br>
+   Step1. Choose two data columns you want to calculate ( two variables x and y)<br><br>
    Step2. Add another 3 columns ( xy , y*y ,x*x) <br>
             - Multiply x and y together to fill the xy column.<br>
             - Take the square of the numbers in the x column, and put the result in the x*x column.<br>
