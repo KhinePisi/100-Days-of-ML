@@ -1,3 +1,5 @@
+## Motivation
+If we dont have any interest on the relationship between variables and fit it into a model, the results will be messy and meaningless, so here comes Correlation Coefficient. <br>
 ## Correlation Coefficient 
 - It is used to determine how strong a relationship is between two variables.<br>
 - returns value between (-1 and 1) <br>
