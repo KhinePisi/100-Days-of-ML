@@ -9,7 +9,7 @@
 We must clarify the type of relationship between two variables whether they have deterministic realtionship or statistical relationship.<br>
 In deterministics relationship, there is an exact equation for the variables. <br>
 So, after calculating results by that equation and plotting them on an X-Y coordinate plane, you will get a straight line that all data points falling on directly . <br>
-In statistical relationship, 
+In statistical relationship, you won't have a line with all data points fitting anymore although the input variable (predictor X) has an impact on  the output variable (response Y). Simple Linear Regression helps here to find the best equation that
 
 
 
