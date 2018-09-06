@@ -22,6 +22,7 @@ There are several ways of finding coefficient formulas.I will describe the most 
             You can now analyze the results and decide whether you are going to find any statistcal equation with them or not . <br>
    
 This is important in data analyzing and preprocessing steps especially for Linear Regression Models.<br>
+[ I will put step figures later. ]
 
    
    -------------------------------------------------------------------------------------------------------------------
