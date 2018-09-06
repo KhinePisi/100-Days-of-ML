@@ -10,10 +10,10 @@
 There are several ways of finding coefficient formulas.I will describe the most basic one here . 
    ![Equation Image ](https://github.com/KhinePisi/100-Days-of-ML/blob/master/Correlation%20Coefficient.JPG)<br>
    Implementation of Equation <br>
-   Step1. Choose two data columns you want to calcuate ( two variables x and y)
+   Step1. Choose two data columns you want to calcuate ( two variables x and y)<br>
    Step2. Add another 3 columns ( xy , y*y ,x*x) <br>
-            - Multiply x and y together to fill the xy column.
-            - Take the square of the numbers in the x column, and put the result in the x*x column.
+            - Multiply x and y together to fill the xy column.<br>
+            - Take the square of the numbers in the x column, and put the result in the x*x column.<br>
             - Take the square of the numbers in the y column, and put the result in the y*y column.<br>
    Step3. Add up all of the numbers in the columns and put the result at the bottom of the column.   <br>
    Step4. Use the correlation coefficient formula. <br>
