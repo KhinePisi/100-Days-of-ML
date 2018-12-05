@@ -18,9 +18,9 @@ For  Rows:
 
 For Columns:
 
-    data.iloc[:,0] //first column of data frame (first_name)
-    data.iloc[:,1] //second column of data frame (last_name)
-    data.iloc[:,-1] // last column of data frame (id)
+    data.iloc[:,0] //first column of data frame 
+    data.iloc[:,1] //second column of data frame 
+    data.iloc[:,-1] // last column of data frame 
   
 #Multiple Columns and Rows Selection
    
