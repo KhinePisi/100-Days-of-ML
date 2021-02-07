@@ -1,1 +1,1 @@
-# 100-Days-of-ML challenge hosted by Siraj Raval. 
+# 100-Days-of-ML challenge
